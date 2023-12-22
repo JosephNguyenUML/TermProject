@@ -12,5 +12,5 @@ mean_price = statistics.mean(apple_prices)
 # Calculate the standard deviation
 std_deviation = statistics.stdev(apple_prices)
 
-print("Mean Price:", mean_price)
-print("Standard Deviation:", std_deviation)
+print("Mean Price: $", mean_price)
+print("Standard Deviation: $", std_deviation)
